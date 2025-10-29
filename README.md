@@ -7,7 +7,7 @@ My First Repository
 **Created by:** Paul Scheuring  
 
 ## Why I Love It
-- Intense and clever escape plans 🧠  
+- Intense and clever escape plans 
 - Strong brotherly bond between Michael and Lincoln  
 - Full of suspense and unexpected twists  
 
